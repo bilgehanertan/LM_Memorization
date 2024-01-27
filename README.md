@@ -1,3 +1,7 @@
+# Changes:
+Model has been updated to the Text-To-Text Transfer Transformer (T5). Modifications have been made to the codebase to ensure compatibility with various other generative models.
+
+
 # Training data extraction from GPT-2
 
 This repository contains code for extracting training data from GPT-2, following the approach outlined in the following paper:
